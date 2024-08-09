@@ -1,18 +1,13 @@
 <script>
-    let technologies = [
-      'JavaScript', 'TypeScript', 'React', 'Vue', 'Angular',
-      'Node.js', 'Express', 'MongoDB', 'PostgreSQL', 'GraphQL',
-      'Docker', 'Kubernetes', 'AWS', 'Firebase', 'Redux',
-      'Webpack', 'Babel', 'Jest', 'Cypress', 'Git'
-    ];
+    export let items;
   
     // Duplicate the list to create a seamless loop
-    technologies = [...technologies, ...technologies];
+    items = [...items, ...items];
   </script>
   <div class="overflow-hidden h-full relative">
     <div class="animate-scroll absolute left-0 flex">
-      {#each technologies as tech}
-        <div class="py-4 px-4 whitespace-nowrap text-xl font-bold text-gray-500">{tech}</div>
+      {#each items as item}
+        <div class="px-4 whitespace-nowrap text-xl font-bold text-slate-200">{item}</div>
       {/each}
     </div>
   </div>
