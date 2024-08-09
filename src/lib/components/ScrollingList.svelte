@@ -10,7 +10,7 @@
     technologies = [...technologies, ...technologies];
   </script>
   <div class="overflow-hidden h-full relative">
-    <div class="animate-scroll absolute left-0 flex flex-col">
+    <div class="animate-scroll absolute left-0 flex">
       {#each technologies as tech}
         <div class="py-4 px-4 whitespace-nowrap text-xl font-bold text-gray-500">{tech}</div>
       {/each}
@@ -20,10 +20,10 @@
   <style>
     @keyframes scroll {
       0% {
-        transform: translateY(0);
+        transform: translateX(0);
       }
       100% {
-        transform: translateY(-50%);
+        transform: translateX(-30%);
       }
     }
   
