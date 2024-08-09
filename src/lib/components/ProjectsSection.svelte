@@ -39,7 +39,7 @@
     ];
    </script>
    
-   <div id="projects" class="mt-12 font-sans bg-gradient-to-t from-black to-slate-900 p-8 rounded-xl shadow-lg">
+   <div id="projects" class="font-sans bg-gradient-to-t from-black to-slate-900 p-8">
      <h2 class="py-2 text-5xl font-bold text-white mb-12 text-center bg-gradient-to-r from-blue-50 to-blue-700 text-transparent bg-clip-text">Projects</h2>
      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
        {#each projects as project}

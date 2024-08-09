@@ -5,7 +5,7 @@
   import WorkExperienceSection from "./lib/components/WorkExperienceSection.svelte";
 </script>
 
-<main class="px-24 bg-gradient-to-br from-red-50 to-blue-50">
+<main class="bg-gradient-to-br from-red-50 to-blue-50">
   <Intro />
   <ProjectsSection />
   <WorkExperienceSection />

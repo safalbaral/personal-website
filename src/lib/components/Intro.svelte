@@ -5,7 +5,7 @@
     let tech_i_know = ['React', 'Node', 'React Native', 'Python', 'SQL', 'Linux', 'Flask', 'Python', 'Javascript', 'Svelte']
     let things_im_learning = ['ESP32', 'Embedded Development', '3D Modelling', 'Machine Learning', 'Music Production']
    </script>
-   <div class="rounded-lg flex flex-col min-h-96 font-serif h-screen bg-gradient-to-br from-black to-slate-800">
+   <div class="px-12 flex flex-col min-h-96 font-serif h-screen bg-gradient-to-br from-black to-slate-800">
      <Header />
      <div class="flex-1 flex">
        <!-- Main content area (66%) -->
