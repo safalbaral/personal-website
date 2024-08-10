@@ -33,7 +33,7 @@
      description: 'Designed using Svelte and TailwindCSS, made to be fully responsive on both desktop and mobile!',
      tags: ['Svelte', 'Typescript', 'TailwindCSS'],
      image: '/images/Website.png',
-     url: 'https://www.safalbaral.com'
+     url: 'https://github.com/safalbaral/personal-website'
    }
  ];
  </script>
