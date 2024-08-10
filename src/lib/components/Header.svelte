@@ -1,6 +1,6 @@
 <div class="sticky top-0 w-full flex items-center justify-between p-4 md:p-8 font-serif text-lg text-slate-200">
   <div id="logo">
-    <img src="/src/assets/Logo.png" class="w-16 h-16 md:w-20 md:h-20" alt="Logo" />
+    <img src="/Logo.png" class="w-16 h-16 md:w-20 md:h-20" alt="Logo" />
   </div>
   <div id="nav-items" class="flex gap-4 md:gap-6">
     <a class="hover-underline-animation cursor-pointer" href="#projects">

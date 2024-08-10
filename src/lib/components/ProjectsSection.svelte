@@ -4,35 +4,35 @@
      title: 'Koi Time',
      description: 'KoiTime is an Expo-powered React Native application that I started building for myself to help me track time spent on tasks and projects.',
      tags: ['React Native', 'Expo', 'SQLite', 'Redux', 'Mobile Development'],
-     image: '/src/assets/images/KoiTime.png',
+     image: '/images/KoiTime.png',
      url: 'https://github.com/safalbaral/KoiTime'
    },
    {
      title: 'Nepal District Project Dashboard',
      description: 'This is an interactive dashboard I created at my internship, which my employer was kind enough to let me open source.',
      tags: ['React', 'TailwindCSS', 'LeafletJS', 'Data Visualization'],
-     image: '/src/assets/images/NepalDistricts.png',
+     image: '/images/NepalDistricts.png',
      url: 'https://github.com/safalbaral/Nepal-Districts-Project-Map'
    },
    {
      title: 'The Cocoon - An Environment Redesign Project',
      description: 'Project created as part of SUTD\'s 3.007 course. Physical prototype with lights, sensors, and motors controlled with Raspberry Pi Pico W connected to an Adafruit backend, with commands sent through a React frontend.',
      tags: ['Raspberry Pi Pico W', '3D Modelling & Printing', 'MicroPython', 'React', 'Microcontroller Development', 'Web Development', 'IoT'],
-     image: '/src/assets/images/SUTD_DTI.png',
+     image: '/images/SUTD_DTI.png',
      url: 'https://github.com/safalbaral/TheCocoon-3.007_SUTD_DTI_Project'
    },
    {
      title: 'Flask PDF Invoices',
      description: 'A Flask web application I created for a family member to use for generating PDF invoices.',
      tags: ['Python', 'Flask', 'Bootstrap', 'Weasyprint', 'Web Development'],
-     image: '/src/assets/images/BillGenerator.png',
+     image: '/images/BillGenerator.png',
      url: 'https://github.com/safalbaral/Flask-PDF-Invoices'
    },
    {
      title: 'This Website',
      description: 'Designed using Svelte and TailwindCSS, made to be fully responsive on both desktop and mobile!',
      tags: ['Svelte', 'Typescript', 'TailwindCSS'],
-     image: '/src/assets/images/Website.png',
+     image: '/images/Website.png',
      url: 'https://www.safalbaral.com'
    }
  ];
