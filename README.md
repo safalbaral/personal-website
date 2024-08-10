@@ -1,2 +1,3 @@
 # Personal Website
-This is the code for my personal website at safalbaral.com
+
+This is the code for my personal website at [safalbaral.com](https://www.safalbaral.com)
