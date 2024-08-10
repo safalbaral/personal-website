@@ -15,7 +15,7 @@
              Hi, I'm Safal!
            </h1>
            <p class="text-base sm:text-lg text-wrap max-w-sm text-slate-200">
-            I like exploring new subjects and hobbies, everything from the command line to the study of human culture.
+            I enjoy exploring new subjects and hobbies, everything from the command line to the study of human culture.
            </p>
            <p class="text-base text-wrap max-w-sm text-slate-200">
             Some things I'm learning: <span class="text-slate-300 text-sm">Embedded Development, Machine Learning, Woodworking, Video Production</span>
