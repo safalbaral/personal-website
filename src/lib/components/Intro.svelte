@@ -29,10 +29,12 @@
             <a href="https://github.com/safalbaral/" target="_blank" rel="noopener noreferrer">
                 <ion-icon name="logo-github" style="font-size: 24px;"></ion-icon>
             </a>
+            <!--
             <a href="#" target="_blank" rel="noopener noreferrer">
                 <ion-icon name="logo-linkedin" style="font-size: 24px;"></ion-icon>
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
+            -->
+            <a href="mailto:hi@safalbaral.com" target="_blank" rel="noopener noreferrer">
                 <ion-icon name="mail" style="font-size: 24px;"></ion-icon>
             </a>
            </div>
