@@ -15,7 +15,10 @@
              Hi, I'm Safal!
            </h1>
            <p class="text-base sm:text-lg text-wrap max-w-sm text-slate-200">
-             A Computer Science and Anthropology Student, I'm a programmer who blah blah blah blah blah blah
+            Jack of all trades, hoping to be a master at some. I enjoy exploring new subjects and hobbies, from the command line to human culture.
+           </p>
+           <p class="text-base text-wrap max-w-sm text-slate-200">
+            Some things I'm learning: <span class="text-slate-300 text-sm">Embedded Development, Machine Learning, Woodworking, Video Production</span>
            </p>
            <div class="flex gap-2 py-2 sm:py-5 md:py-10 text-base sm:text-lg md:text-xl">
              <span class="text-green-400">Programmer</span>
