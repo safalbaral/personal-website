@@ -4,14 +4,14 @@
   
   const jobs:Work[] = [
     {
-      role: 'Technology Intern',
+      role: 'Technical Intern',
       organization: 'HERD International',
       startDate: new Date(2024, 5, 3),
       endDate: new Date(2024, 7, 9),
       contribution: ['Developed an interactive data visualization web application using React, Tailwind CSS, and Leaflet, enhancing data comprehension about the organization\'s projects.', 'Collaborated with a team to gather requirements and design a user-friendly interfaces, ensuring a smooth user experience.', 'Automated data processing by using Python to parse Excel files into JSON format, saving hours of time, which would otherwise have been required to convert the data.']
     },
     {
-      role: 'Web Devloper Intern',
+      role: 'Web Developer Intern',
       organization: 'Anweshan',
       startDate: new Date(2023, 6, 10),
       endDate: new Date(2023, 8, 1),
