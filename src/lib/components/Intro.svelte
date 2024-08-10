@@ -2,7 +2,7 @@
     import ScrollingList from "./ScrollingList.svelte";
     import Header from "./Header.svelte";
 
-    let tech_i_know = ['React', 'Node', 'React Native', 'Python', 'SQL', 'Linux', 'Flask', 'Python', 'Javascript', 'Svelte']
+    let tech_i_know = ['React', 'Node', 'React Native', 'Python', 'SQL', 'Linux', 'Flask', 'Javascript', 'Svelte', 'MongoDB']
     let things_im_learning = ['ESP32', 'Embedded Development', '3D Modelling', 'Machine Learning', 'Music Production']
    </script>
    <div class="px-12 flex flex-col min-h-96 font-serif h-screen bg-gradient-to-br from-black to-slate-800">

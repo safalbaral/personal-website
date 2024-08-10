@@ -1,4 +1,4 @@
-<div id="experience" class="font-sans bg-gradient-to-t from-black to-slate-900 p-8">
+<div id="experience" class="font-sans bg-gradient-to-br from-black to-slate-800 p-8 px-44">
     <h2 class="py-2 text-5xl font-bold text-white mb-12 text-center bg-gradient-to-r from-blue-50 to-blue-700 text-transparent bg-clip-text">Work Experience</h2>
     <div class="space-y-8">
       <div class="bg-gradient-to-tr from-slate-900 to-slate-800 rounded-xl overflow-hidden shadow-md p-6">
