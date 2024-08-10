@@ -1,7 +1,7 @@
 <script>
     import ScrollingList from "./ScrollingList.svelte";
     import Header from "./Header.svelte";
-    let tech_i_know = ['React', 'Node', 'React Native', 'Python', 'SQL', 'Linux', 'Flask', 'Javascript', 'Svelte', 'MongoDB']
+    let tech_i_know = ['React', 'Node', 'React Native', 'Python', 'SQLite', 'Linux', 'Flask', 'Javascript', 'Svelte', 'MongoDB', 'TailwindCSS']
     let things_im_learning = ['ESP32', 'Embedded Development', '3D Modelling', 'Machine Learning', 'Music Production']
    </script>
    
@@ -23,9 +23,15 @@
              <span class="text-red-500">Computer Science & Anthropology Student</span>
            </div>
            <div class="flex gap-4">
-            <ion-icon name="logo-github" style="font-size: 24px;"></ion-icon>
-            <ion-icon name="logo-linkedin" style="font-size: 24px;"></ion-icon>
-            <ion-icon name="mail" style="font-size: 24px;"></ion-icon>
+            <a href="https://github.com/safalbaral/" target="_blank" rel="noopener noreferrer">
+                <ion-icon name="logo-github" style="font-size: 24px;"></ion-icon>
+            </a>
+            <a href="#" target="_blank" rel="noopener noreferrer">
+                <ion-icon name="logo-linkedin" style="font-size: 24px;"></ion-icon>
+            </a>
+            <a href="#" target="_blank" rel="noopener noreferrer">
+                <ion-icon name="mail" style="font-size: 24px;"></ion-icon>
+            </a>
            </div>
          </div>
        </div>
@@ -36,7 +42,7 @@
              <h2 class="text-xl sm:text-2xl pb-4 text-center text-slate-300">Tech I've Worked With</h2>
              <ScrollingList items={tech_i_know} />
              <div class="flex justify-center mt-4">
-               <button class="cursor-pointer border border-slate-100 hover:bg-slate-200 hover:text-slate-800 rounded-xl px-4 py-2 text-slate-200">See My Projects!</button>
+               <a href="#projects" class="cursor-pointer border border-slate-100 hover:bg-slate-200 hover:text-slate-800 rounded-xl px-4 py-2 text-slate-200">See My Projects!</a>
              </div>
            </div>
            <!--
